@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1590183783 source:c:\users\utilisateur\desktop\c++\programmes_exemples\json\json.cpp
+	"json.h"
+	"utility.h"
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	<exception>
+
+1590192345 c:\users\utilisateur\desktop\c++\programmes_exemples\json\json.h
+	<iostream>
+	<string>
+	<exception>
+	<memory>
+	<vector>
+	<map>
+
+1590184889 source:c:\users\utilisateur\desktop\c++\programmes_exemples\json\main.cpp
+	<iostream>
+	<vector>
+	"json.h"
+
+1590087731 source:c:\users\utilisateur\desktop\c++\programmes_exemples\json\utility.cpp
+	"utility.h"
+
+1590085741 c:\users\utilisateur\desktop\c++\programmes_exemples\json\utility.h
+	<vector>
+	<string>
+
+1590081145 source:c:\users\utilisateur\desktop\c++\programmes_exemples\json\jsonfile.cpp
+	"json.h"
+	"utility.h"
+	<fstream>
+	<vector>
+	<map>
+
